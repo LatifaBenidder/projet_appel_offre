@@ -1,6 +1,7 @@
 # projet_appel_offre
 
 https://github.com/LatifaBenidder/projet_appel_offre/assets/117907196/e22417b3-3e63-4855-897a-cfd02bb15197
+
 Project idea : 📢📢Real Time tenders dashboard on google cloud platform - batch data pipeline📢📢
 ✅The tender data is extracted from online sources and injected into Cloud Storage. These tasks are orchestrated using Cloud composer (Apache Airflow) .
 ✅Data transformation using dataproc (Pyspark).
