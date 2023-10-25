@@ -1,6 +1,6 @@
 # projet_appel_offre
 
-https://github.com/LatifaBenidder/projet_appel_offre/assets/117907196/e22417b3-3e63-4855-897a-cfd02bb15197
+![gcp_project](https://github.com/LatifaBenidder/projet_appel_offre/assets/117907196/b2b71c28-09db-4816-8610-b21b95098bdf)
 
 𝓟𝓻𝓸𝓳𝓮𝓬𝓽 𝓲𝓭𝓮𝓪 : 📢📢 Real Time tenders dashboard on google cloud platform - batch data pipeline 📢📢
 
